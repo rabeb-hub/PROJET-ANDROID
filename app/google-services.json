@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214134957746",
+    "project_id": "taxi-17868",
+    "storage_bucket": "taxi-17868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214134957746:android:b4f9442c3640009aad8bab",
+        "android_client_info": {
+          "package_name": "com.example.allotaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-D3UC2JXuMPUSM6_IPkSjUE344UftBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

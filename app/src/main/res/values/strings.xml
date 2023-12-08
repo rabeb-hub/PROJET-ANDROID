@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALLO TAXI</string>
+    <string name="select_destination">Sélectionnez une destination</string>
+    <string-array name="destination_array">
+        <item>Vers Mall of sfax</item>
+        <item>Vers ISIMS sfax</item>
+        <item>Vers centre ville sfax</item>
+    </string-array>
+</resources>
